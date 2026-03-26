@@ -7,13 +7,14 @@
 
 body{
     font-family: 'Arial', sans-serif;
-    background-color: rgb(227, 233, 238);
+    background-color: #0b0c0c;
 }
 .Heading {
     text-align: center;
     font-size: 2.5rem;
     margin-top: 20px;
-    color: #0d3f91;
+    color: #ec7b0b;
+
 }
 
 .Container {
@@ -40,7 +41,7 @@ body{
 .para {
     font-size: 1.2rem;
     margin-top: 15px;
-    color: rgb(75, 0, 173);
+    color: rgb(10, 8, 12);
     text-align: justify;
 
 }
