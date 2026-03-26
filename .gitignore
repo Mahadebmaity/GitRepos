@@ -3,3 +3,5 @@ database.sql
 # suppose if I create multiple log file or txt file then I can add the extension of that file in .gitignore file so that all the files with that extension will be ignored by git and will not be tracked. For example, if I want to ignore all the log files then I can add *.log in .gitignore file. Similarly, if I want to ignore all the txt files then I can add *.txt in .gitignore file. This way I can keep my repository clean and organized by ignoring unnecessary files.like this
 *.log 
 *.txt
+node_modules/
+gitrepo/
