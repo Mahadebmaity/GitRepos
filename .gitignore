@@ -5,3 +5,4 @@ database.sql
 *.txt
 node_modules/
 gitrepo/
+!important.log
