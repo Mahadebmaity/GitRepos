@@ -1,4 +1,4 @@
-# Learning base git repos
+# Git and Github 
 
 Now I create learning base index html file for practicing git 
 This is a readme file for learning base git repos 
